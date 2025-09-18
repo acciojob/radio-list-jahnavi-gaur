@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-.radio-group label:nth-child(odd){
-	color:red;
+label:nth-child(even) {
+    color: red;
 }
